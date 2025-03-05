@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-<!--
-**dibinjacob/dibinjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+I’m Dibin, and I’m passionate about cloud and onprem automations
+
+This Repository Python-Scripts is my personal pyhon template collection. Here you'll find scripts, and configurations for various tools, and technologies.
+
+⚠️ Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
+
+I created them as free resources to be used in your specific use cases. If you're searching for detailed
+
+Support me
+Remember, supporting me is entirely optional.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
