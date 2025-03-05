@@ -7,7 +7,7 @@
 ---
 
 ### 🌍 Who Am I?
-I’m Dibin, a tech explorer passionate about **cloud and on-premises automation**. My **Python-Scripts** repo is a growing collection of tools, scripts, and configs I’ve built to simplify workflows. Dive in and adapt them to your needs!
+I’m Dibin, a tech explorer passionate about **cloud and on-premises automation**. My  repos is a growing collection of tools, scripts, and configs to simplify workflows. Dive in and adapt them to your needs!
 
 > **Disclaimer:** Tech evolves fast—while I aim to keep things fresh, some scripts might need a little TLC to match the latest updates.
 
