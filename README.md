@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey, I’m Dibin!</h1>
   <p>A <strong>Cloud & Automation Enthusiast</strong> crafting solutions with code.</p>
-  <p>✨ <em>Python-Scripts</em> is my sandbox of automation goodies! ✨</p>
+  <p>✨ <em>Python & Ansible -Scripts</em> is my sandbox of automation goodies! ✨</p>
 </div>
 
 ---
