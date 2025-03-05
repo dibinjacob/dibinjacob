@@ -1,53 +1,48 @@
 <div align="center">
-  <h1>👋 Hey, I’m Dibin!</h1>
-  <p>A <strong>Cloud & Automation Enthusiast</strong> crafting solutions with code.</p>
-  <p>✨ <em>Ansible&Python-Scripts</em> is my sandbox of automation goodies! ✨</p>
+  <h1>Hi 👋, I’m Dibin!</h1>
+  <p>A passionate <strong>Cloud & Automation Developer</strong> from India</p>
 </div>
 
 ---
 
-### 🌍 Who Am I?
-I’m Dibin, a tech explorer passionate about **cloud and on-premises automation**.scripts, and configs I’ve built to simplify workflows. Dive in and adapt them !
-
-> **Disclaimer:** Tech evolves fast—while I aim to keep things fresh, some scripts might need a little TLC to match the latest updates.
-
----
-
-### 🧰 What I Bring to the Table
-- **🔧 Skills:** Cloud automation, Python scripting, hybrid infrastructure.  
-- **🛠️ Tools:**  
-  <p>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Ansible" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Kubernets" />
-  </p>
-
-- **🔭 Working on:** Automating multi-cloud deployments.  
-- **🌱 Learning:** Serverless architectures and AI-driven ops.  
-- **👯 Collaborate with me on:** Open-source automation projects!  
+### 👀 About Me
+- I’m hooked on crafting **automation solutions** for cloud and on-premises systems.  
+- 🌱 **Currently learning:** Advanced cloud orchestration techniques.  
+- 📫 **How to reach me:** [dibin@example.com](mailto:dibin@example.com) | [Twitter @DibinTech](https://twitter.com/dibintech)  
+- 🌍 Based in India, coding to simplify the world!  
 
 ---
 
-### 💬 Let’s Connect!
-Got questions about cloud, Python, or just want to geek out? Reach me here:  
-- 📧 [dibin@example.com](mailto:dibin@example.com)  
-- 🐙 [GitHub @DibinTech](https://github.com/dibintech)  
-- 🌐 [dibintech.dev](https://dibintech.dev)  
+### 🌱 What I’m Up To
+- **Working at:** A forward-thinking tech company.  
+- **Role:** Cloud automation engineer and Python enthusiast.  
+- **Focus:** Building scripts and tools to streamline workflows.  
 
 ---
 
-### 🙌 Support the Journey
-Enjoy my work? Supporting me is optional but appreciated:  
-- ⭐ Star my repos to spread the love!  
-- 💡 Share ideas or feedback.  
-- ☕ [Fuel my code with coffee](https://buymeacoffee.com/dibintech)  
+### 🛠️ Languages & Tools
+Here’s my tech toolbox:  
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />  
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />  
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />  
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />  
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />  
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />  
+</p>
+
+---
+
+### 💡 Let’s Collaborate!
+- 👯 I’m open to teaming up on cloud automation or Python projects.  
+- 💬 Ask me about cloud setups, scripting hacks, or tech in general!  
 
 ---
 
 <div align="center">
-  <h3>Ready to Automate the World? 🌐</h3>
-  <p>Check out my projects and let’s make something epic together!</p>
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Cloud GIF" width="250" />
+  <p><em>Coding my way through the cloud, one script at a time!</em></p>
+  <img src="https://media.giphy.com/media/26AHvF2p5pridaSiM/giphy.gif" alt="Coding GIF" width="200" />
 </div>
